@@ -15,9 +15,9 @@ caso haja muitas tarefas, e utilizar um filtro para exibir todas as tarefas, as 
 - flexBox
 - DOM
 
-## Contatos
+## 📞 Contatos
 - [Linkedin](https://www.linkedin.com/in/alessandro-vieira02/)
 - Gmail: alessandrovieiraa77@gmail.com
 
-## Link para ver o projeto Rodando
+## ⚙️ Link para ver o projeto Rodando
 [Click aqui](https://criador-de-tarefas-git-main-alessandro-vieiras-projects.vercel.app/)
